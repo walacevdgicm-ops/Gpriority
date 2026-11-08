@@ -1,0 +1,4 @@
+customtkinter>=5.2
+tkcalendar>=1.6
+matplotlib>=3.7
+openpyxl>=3.1
